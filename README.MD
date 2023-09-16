@@ -4,17 +4,17 @@ Welcome to my repository dedicated to the exploration of Generative Adversarial 
 
 ## Key Features
 
-- **StyleGAN:** 
+- **StyleGAN** 
 
-- **DCGAN (Deep Convolutional GAN):** 
+- **DCGAN (Deep Convolutional GAN)** 
 
-- **CycleGAN:** 
+- **CycleGAN** 
 
-- **Pix2Pix:** 
+- **Pix2Pix** 
 
-- **WGAN (Wasserstein GAN):** 
+- **WGAN (Wasserstein GAN)** 
 
-- **CGAN (Conditional GAN):** 
+- **CGAN (Conditional GAN)** 
 
 Additional resources in the repository include notebooks for:
 
